@@ -1,0 +1,1 @@
+include configs/latent-diffusion/txt2img-1p4B-eval.yaml
